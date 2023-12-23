@@ -1,3 +1,6 @@
+# check_processes 20231223
+check_processes.py # windows环境下，检查exe客户端程序和python脚本的运行状态（check port）
+
 # Python-Scripts 20231103
 about python
 
